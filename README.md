@@ -2,7 +2,7 @@ INSTALACION
 
 #1==> pkg install git -y
 
-#2==> git clone https://github.com/Scorp17/Llosa-Tech-Hack
+#2==> git clone https://github.com/Scorp17/techhackcl
 
 #3==> cd Llosa-Tech-Hack
 
