@@ -189,7 +189,7 @@ snapgrap() {
         echo -e "${W}7) Data Saver       ${C}(240p)${F}"
         echo -e "${W}8) Minimum Quality  ${C}(144p)${F}"
         echo -e "${R}──────────────────────────────────────────────────────────${F}"
-        read -p $'\033[1;32mroot@llosa-hack:~# [1-8]: \033[0m' v_opt
+        read -p $'\033[1;32mroot@tec-hack:~# [1-8]: \033[0m' v_opt
 
         case $v_opt in
             1) res="bestvideo+bestaudio/best" ;;
@@ -222,7 +222,7 @@ snapgrap() {
         echo -e "${W}4) Radio Quality    ${C}(128 kbps)${F}"
         echo -e "${W}5) Mobile Saver     ${C}(64 kbps)${F}"
         echo -e "${R}──────────────────────────────────────────────────────────${F}"
-        read -p $'\033[1;32mroot@llosa-hack:~# [1-5]:\033[0m ' a_opt
+        read -p $'\033[1;32mroot@tec-hack:~# [1-5]:\033[0m ' a_opt
 
         case $a_opt in
             1) bitrate="0" ;;
@@ -260,7 +260,7 @@ snapgrap() {
         echo -e "${W}2. Núcleo de Extracción de Audio${F}"
         echo -e "${W}3. Salir del Sistema${F}"
         echo -e "${R}──────────────────────────────────────────────────────────${F}"
-        read -p $'\033[1;32mroot@llosa-hack:~#\033[0m ' core_opt
+        read -p $'\033[1;32mroot@tec-hack:~#\033[0m ' core_opt
 
         case $core_opt in
             1) video_engine ;;
@@ -288,7 +288,7 @@ fontmod() {
     
     clear && baner
     echo -e "${R}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${F}"
-    echo -e "${R}┃       FONTMOD - TECH 2026        ┃${F}"
+    echo -e "${R}┃       FONTMOD - TECH 2025       ┃${F}"
     echo -e "${R}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${F}"
     echo -e "\n${Y}Seleccione una fuente para instalar:${F}"
     echo -e "${P}Escriba (0) Para Volver Al Menu Anterior${F}"
