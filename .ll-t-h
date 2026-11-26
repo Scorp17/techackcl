@@ -1,18 +1,17 @@
 #!/bin/bash
 
 #============================
-# AUTOR:        Josue Llosa
-# PROGRAMADOR:  Josue Llosa
-# INSTAGRAM:    scorpcc17
-# FACEBOOK:     Scorp Clavel
+# AUTOR:        SCOR
+# PROGRAMADOR:  SCOR
+# INSTAGRAM:    
+# FACEBOOK:     
 #============================
 
-autor-Josue-Llosa() {
+() {
 
 """
 ADVERTENCIA / DISCLAIMER
 
-Este script fue creado por Josue Llosa.
 GitHub: https://github.com/Scorp17
 
 Es código abierto y se comparte
@@ -91,8 +90,8 @@ baner(){
     echo -e "${P}    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝${F}"
     
     echo -e " ${P}┌──────────────────────────────────────────────────┐${F}"
-    echo -e " ${P}│${F} ${R}AUTOR:    ${F} ${W}Josue Llosa${F} ${R}PROGRAMADOR:${F} ${W}Josue Llosa${F}${P}  │${F}"
-    echo -e " ${P}│${F} ${P}INSTAGRAM:${F} ${W}scorpcc17${F}   ${G}FACEBOOK:   ${F} ${W}Scorp Clavel${F}${P} │${F}"
+    echo -e " ${P}│${F} ${R}AUTOR:    ${F} ${W}SCOR${F} ${R}PROGRAMADOR:${F} ${W}SCOR${F}${P}  │${F}"
+    echo -e " ${P}│${F} ${P}INSTAGRAM:${F} ${W}${F}   ${G}FACEBOOK:   ${F} ${W}${F}${P} │${F}"
     echo -e " ${P}└──────────────────────────────────────────────────┘${F}"
 }
 
