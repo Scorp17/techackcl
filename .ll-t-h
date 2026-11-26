@@ -170,7 +170,7 @@ snapgrap() {
     header() {
         clear && baner
         echo -e "${R}┌────────────────────────────────────────────────────────┐${F}"
-        echo -e "${R}│${W}              SNAPGRAP ULTIMATE ENGINE 2026             ${R}│${F}"
+        echo -e "${R}│${W}              SNAPGRAP ULTIMATE ENGINE 2025         ${R}│${F}"
         echo -e "${R}│${W}             Professional Content Retriever             ${R}│${F}"
         echo -e "${R}└────────────────────────────────────────────────────────┘${F}"
         echo -e "${P}  Almacenamiento: ${Y}/sdcard/Download/Tech(Vid/Song)${F}"
