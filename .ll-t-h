@@ -117,7 +117,7 @@ menu() {
     echo -e "${P}[ 2 ]${F} ${W}SnapGrap (Descargador)${F}"
     echo -e "${P}[ 3 ]${F} ${W}FontMod (Fuentes)${F}"
     echo ""
-    read -p $'\033[1;31mroot@llosa-hack:~# \033[0m' herramienta
+    read -p $'\033[1;31mroot@tec-hack:~# \033[0m' herramienta
     case $herramienta in
         0) echo -e "${R}[!] Saliendo Del Programa...${F}" && sleep 1 && exit 0  ;;
         1) clear && bincoder ;;
