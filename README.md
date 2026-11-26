@@ -19,7 +19,7 @@ INSTALACION
 ACTUALIZAR EL SNAPGRAP CON EL SCRIP
 ./install POR SI NO FUNCIONA, SI SIGUE SIN FUNCIONAR UTILIZAR UNA RED VPN
 
-# LlosaTech Elite Terminal
+# LlosaTech
 
 **Licencia MIT** (versión en inglés oficial – ver archivo LICENSE)
 
@@ -37,4 +37,4 @@ El aviso de copyright anterior y este aviso de permiso deberán incluirse en tod
 - Solo tienes que mantener mi nombre (Josue Llosa / Scorp17) y esta licencia en las copias.
 - No hay garantía: si algo falla, no soy responsable.
 
-¡Disfruta del código y hazlo tuyo! 💀⚡
+¡Disfruta del código!
