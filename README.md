@@ -4,13 +4,13 @@ INSTALACION
 
 #2==> git clone https://github.com/Scorp17/techackcl
 
-#3==> cd Llosa-Tech-Hack
+#3==> cd tec-Tech-Hack
 
 #4==> chmod +x install
 
 #5==> ./install
 
-#6==> ./llosa-tech-hack
+#6==> ./tec-tech-hack
 
 #7==> USUARIO: user
 
